@@ -42,4 +42,10 @@ export const styles = StyleSheet.create({
     color: '#FFF',
     fontSize: 24,
   },
+  listEmptyText: {
+    padding: 10,
+    color: '#FFF',
+    fontSize: 14,
+    textAlign: 'center',
+  },
 });
